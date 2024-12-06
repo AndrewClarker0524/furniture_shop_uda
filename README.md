@@ -88,46 +88,4 @@ https://user-images.githubusercontent.com/70565731/158550427-58d43c83-1196-4b7d-
 <br/>
 <br>
 
-## **📕 User manual**
- <br>
-
-### 1. Going through the Github link of this project:
-<br>
-<p align="center">
-    <a href="https://github.com/tduongtad1304"><img alt="" src="https://user-images.githubusercontent.com/70565731/158562455-646003dd-7cb2-4c1a-9cbb-7c73eabf9485.png"/></a>
-<br>
-
-### a. Copy the link in the section below by <img src="https://user-images.githubusercontent.com/70565731/158563145-c2d324e4-8122-45e7-863e-5496b2e241bb.png" height="22px"> and open Command Prompt or Terminal of any available IDEs like Visual Studio Code for instance.
-
-### b. Clone this repo by typing: ```git clone https://github.com/tduongtad1304/furniture_shop_uda.git```
-### c. After cloning succesfully, for VSCode instance, just open it by typing: ```code .```
-<br>
-     
-### d. 📽️ Demo Usage:
-     
-
-
-https://user-images.githubusercontent.com/70565731/158575036-3ad3654f-879e-4008-88ff-680526ab1d18.mp4
-
-     
-<br></br>
-
-### 2. ⚒️ Project Configuration:
-<br>
-
-### a. Install all the needed dependencies by typing in the terminal: ```npm install```
-### b. After installing successfully folder ```node_modules```, creating a new terminal and run this project by typing: ```npm start```. It will apppear on the browser with the default setting PORT = 3000 ```localhost:3000/```
-
-<br></br>
-
-### 3. 🏢 Build this project:
-### Using command: ```npm build``` for building the project (if needed). We recommend using this command in the future when we finally finish this project.
-<br></br>
-
-## **💁‍♂️ Contributors**:
-### <h2 align="center"><b>We are glad to contribute with other peoples with this project.</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h2>
-
-| [<img src="https://avatars.githubusercontent.com/u/70565731?v=4" width="115"><br><sub>@tduongtad1304</sub>](https://github.com/tduongtad1304) | [<img  src="https://avatars.githubusercontent.com/u/90086351?v=4" width="115"><br><sub>@Scallets</sub>](https://github.com/Scaletts) | [<img  src="https://avatars.githubusercontent.com/u/72735987?v=4" width="115"><br><sub>@thanhtrung265</sub>](https://github.com/thanhtrung265) | [<img  src="https://avatars.githubusercontent.com/u/70565685?v=4" width="115"><br><sub>@ngannt01</sub>](https://github.com/ngannt01) | [<img  src="https://avatars.githubusercontent.com/u/73017119?v=4" width="115"><br><sub>@vankiet2001</sub>](https://github.com/vankiet2001) |
-| :---: |:---: | :---: | :---: | :---: |
-
 <h2 align="center"><b>Enjoy!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h2>
